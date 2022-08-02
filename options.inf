@@ -1,0 +1,7 @@
+[Global]
+maxbody=2000000000
+mimespath=./mimes.inf
+
+[localhost]
+webroot=./webroot
+enablecgi=true
